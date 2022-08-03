@@ -5,3 +5,8 @@ function example() {
   }
   console.log(x);
 }
+
+//what is the value of x
+
+//Answer:
+//y
