@@ -5,5 +5,4 @@ if (a != null)
 else return 0;
 
 // What will be the output of the following JavaScript code
-// Answer:
-//1
+// Answer: 1
